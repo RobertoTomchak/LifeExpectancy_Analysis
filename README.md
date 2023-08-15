@@ -3,7 +3,7 @@ Machine Learning Model and Analysis of a dataset from WHO to better understand w
 
 ## Dataset
 The dataset was obtained in the site Kaggle, via the following link: https://www.kaggle.com/datasets/kumarajarshi/life-expectancy-who.<br>
-This dataset consists of data from the WHO (World Health Organization) abiut 22 variables related to 193 countries, collected between the years of 2000 and 2015.
+This dataset consists of data from the WHO (World Health Organization) about 22 variables related to 193 countries, collected between the years of 2000 and 2015.
 
 ## Premises
 1. Dataset is correct: since I wasn't the one to collect the data, I'm assuming the creator of the dataset in Kaggle did it correctly. Also, even thought the WHO is a respected organization, we can't guarantee that all the data reflects perfectly the reality of the countries.<br>
