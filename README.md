@@ -1,5 +1,7 @@
 # LifeExpectancy_Analysis
-Machine Learning Model and Analysis of a dataset from WHO to better understand which variables have a significant in a countries' life expectancy.<br>
+
+## Description
+Machine Learning Model and Analysis of a dataset from WHO to better understand which variables have a significance in a countries' life expectancy.
 
 ## Dataset
 The dataset was obtained in the site Kaggle, via the following link: https://www.kaggle.com/datasets/kumarajarshi/life-expectancy-who.<br>
